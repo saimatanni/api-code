@@ -7,9 +7,9 @@ import MultipleData from './components/MultipleData';
 function App() {
   return (
     <div className="App">
-      <TableApi/>
-      <Api/>
-      {/* <MultipleData/> */}
+      {/* <TableApi/> */}
+      {/* <Api/> */}
+      <MultipleData/>
      
     </div>
   );
